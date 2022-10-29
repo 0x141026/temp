@@ -2,7 +2,7 @@ git checkout
 
 EXAMPLES
 
-​    \1. The following sequence checks out the master branch, reverts the
+​    \1. The following sequence checks out the master branch, reverts the .....
 
 ​      Makefile to two revisions back, deletes hello.c by mistake, and
 
