@@ -1,2 +1,0 @@
-nginx: [emerg] no "ssl_certificate" is defined for the "listen ... ssl" directive in /www/server/panel/vhost/nginx/wordpress.local.conf:1
-nginx: configuration file /www/server/nginx/conf/nginx.conf test failed
