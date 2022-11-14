@@ -1,7 +1,7 @@
 import org.apache.commons.lang.StringUtils;
 /**
  *
- * 移除字符串中空格并给出提示，没移除也给出提示。
+ * 移除字符串中空格并给出提示，没移除也给出提示。
  */
 public class RemoveBlank {
     public static String removeBlank(String str, String logInfo) {
